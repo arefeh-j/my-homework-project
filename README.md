@@ -48,13 +48,19 @@ It then uses **Backtracking** to place queens ensuring:
 
 When a solution is found, the output looks like this:
 
-. Q . . . . . .
+. Q . . . . . . 
+
 . . . Q . . . .
-Q . . . . . . .
+
+
 . . . . Q . . .
+
 . . Q . . . . .
+
 . . . . . . Q .
+
 . . . . . . . Q
+
 . . . . . Q . .
 ## 📚 File Descriptions
 
