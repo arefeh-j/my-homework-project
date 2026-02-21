@@ -30,3 +30,6 @@ def print_board(board):
                 line += ". "
         print(line)
     print()
+def show_help():
+    print("This program solves the Eight Queens problem.")
+    print("Use: python main.py")
