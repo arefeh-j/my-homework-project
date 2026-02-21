@@ -26,4 +26,4 @@ eight-queens/
 ├── main.py # Main program & Backtracking algorithm
 ├── utils.py # Helper functions (safety check & board printing)
 └── README.md # Documentation
->>>>>>> 2cb43af (Update README with professional documentation for Eight Queens)
+
